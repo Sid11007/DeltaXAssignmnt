@@ -1,0 +1,212 @@
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\IMDBapp.exe
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\IMDBapp.deps.json
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\IMDBapp.runtimeconfig.json
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\IMDBapp.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\IMDBapp.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\IMDBapp.pdb
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\staticwebassets\IMDBapp.StaticWebAssets.Manifest.cache
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\staticwebassets\IMDBapp.StaticWebAssets.xml
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\scopedcss\bundle\IMDBapp.styles.css
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.RazorTargetAssemblyInfo.cache
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.pdb
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Desktop\New folder\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.csproj.CopyComplete
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\IMDBapp.exe
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\IMDBapp.deps.json
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\IMDBapp.runtimeconfig.json
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\IMDBapp.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\IMDBapp.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\IMDBapp.pdb
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\staticwebassets\IMDBapp.StaticWebAssets.Manifest.cache
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\staticwebassets\IMDBapp.StaticWebAssets.xml
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\scopedcss\bundle\IMDBapp.styles.css
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.RazorTargetAssemblyInfo.cache
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.csproj.CopyComplete
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.dll
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.pdb
+C:\Users\lenovo\Desktop\DeltaX\assignments-deltax\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.genruntimeconfig.cache
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\IMDBapp.exe
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\IMDBapp.deps.json
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\IMDBapp.runtimeconfig.json
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\IMDBapp.runtimeconfig.dev.json
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\IMDBapp.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\IMDBapp.pdb
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.csprojAssemblyReference.cache
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.AssemblyInfoInputs.cache
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.AssemblyInfo.cs
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.csproj.CoreCompileInputs.cache
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.MvcApplicationPartsAssemblyInfo.cache
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.RazorTargetAssemblyInfo.cache
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.csproj.CopyComplete
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\staticwebassets\IMDBapp.StaticWebAssets.Manifest.cache
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\staticwebassets\IMDBapp.StaticWebAssets.xml
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.dll
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.pdb
+D:\Sid\siddy1997-test2-019d374a6214\IMDBapp\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.genruntimeconfig.cache
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\IMDBapp.exe
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\IMDBapp.deps.json
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\IMDBapp.runtimeconfig.json
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\IMDBapp.runtimeconfig.dev.json
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\IMDBapp.dll
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\IMDBapp.pdb
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DeltaX\IMDBapp\IMDBapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DeltaX\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.csprojAssemblyReference.cache
+D:\DeltaX\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.AssemblyInfoInputs.cache
+D:\DeltaX\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.AssemblyInfo.cs
+D:\DeltaX\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.csproj.CoreCompileInputs.cache
+D:\DeltaX\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.MvcApplicationPartsAssemblyInfo.cache
+D:\DeltaX\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.RazorTargetAssemblyInfo.cache
+D:\DeltaX\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.csproj.CopyComplete
+D:\DeltaX\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\staticwebassets\IMDBapp.StaticWebAssets.Manifest.cache
+D:\DeltaX\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\staticwebassets\IMDBapp.StaticWebAssets.xml
+D:\DeltaX\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.dll
+D:\DeltaX\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.pdb
+D:\DeltaX\IMDBapp\IMDBapp\obj\Debug\netcoreapp3.1\IMDBapp.genruntimeconfig.cache
